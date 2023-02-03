@@ -2,17 +2,31 @@
 
 Ohjelmointi 2 kurssin viimeisenä projektina oli suunnitella graafinen käyttöliittymä matopeliin. 
 Pohjakoodiksi oli annettu symbolinen matopeli(gameboard.hh, point.hh, gameboard.cpp ja point.cpp). 
+
+
+
+
+
 ![Symbolin matopeli](https://user-images.githubusercontent.com/30124819/216674800-b2cc4cb9-d4d0-402a-87de-997d836b376b.png)
+Symbolinen matopeli
 
 
 ![Aloitusnäkymä](https://user-images.githubusercontent.com/30124819/216680779-a2bbe990-045f-452e-b36f-16fbdf3a3420.png)
 
+Aloitusnäkymä
 
 
 
-![Tulostaulu](https://user-images.githubusercontent.com/30124819/216680888-d16599b2-6e16-4d82-a7e5-7bf00b9ff7ce.png)
 
 ![Pelinäkymä](https://user-images.githubusercontent.com/30124819/216681181-7e72de51-c523-458b-ba69-81ff89948c56.png)
+
+Pelinäkymä
+
+
+
+![TUlos](https://user-images.githubusercontent.com/30124819/216680888-d16599b2-6e16-4d82-a7e5-7bf00b9ff7ce.png)
+
+Tulostaulu
 
 
 Alla vielä ohjeet, jotka on projektin tekemisen ohessa kirjoitettu.
@@ -59,11 +73,17 @@ program.Note scores are saved even if you reset or go back to mainwindow by butt
 
 Additional features:
 -You can change the width and height of the map between set ranges.
+
 -Program tells the snake size whichis same as score
+
 -Food and parts of snake are shown as photos
+
 -Game has a timer
+
 -Game has a scoreboard
+
 -Background color changes when game is either lost or won Flashing red and green
+
 -Game has an pause
 
 
