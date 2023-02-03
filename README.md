@@ -1,4 +1,4 @@
-# Ohjelmointi 2 Viimeinen projekti 
+# Ohjelmointi 2 projekti, matopeli
 
 Ohjelmointi 2 kurssin viimeisenä projektina oli suunnitella graafinen käyttöliittymä matopeliin. 
 Pohjakoodiksi oli annettu symbolinen matopeli(gameboard.hh, point.hh, gameboard.cpp ja point.cpp). 
